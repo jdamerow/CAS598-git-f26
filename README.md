@@ -17,7 +17,7 @@ The waitress behind the counter didn't look up from wiping the stove. "Decision 
 
 **How does the traveler continue?**
 
-* **Option A:** Approach the stranger with the chained satchel.
-* **Option B:** Answer the ringing payphone.
-* **Option C:** Pull back the rug and open the trapdoor.
+* [**Option A:** Approach the stranger with the chained satchel.](option-a.md)
+* [**Option B:** Answer the ringing payphone.](option-b.md)
+* [**Option C:** Pull back the rug and open the trapdoor.](option-c.md)
 
